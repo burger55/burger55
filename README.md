@@ -1,5 +1,3 @@
-Hello
-I just do some casual coding
-maybe ill do something cool :)
+learninng to code :)) maybe ill make someone cool someday
 
 
